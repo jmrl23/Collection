@@ -1,0 +1,6 @@
+[submodule "Brainfuck-Generator"]
+	path = Brainfuck-Generator
+	url = https://github.com/jmrl23/Brainfuck-Generator
+[submodule "PHP-Todo-App"]
+	path = PHP-Todo-App
+	url = https://github.com/jmrl23/PHP-Todo-App
