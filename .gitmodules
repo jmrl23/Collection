@@ -4,3 +4,6 @@
 [submodule "PHP-Todo-App"]
 	path = PHP-Todo-App
 	url = https://github.com/jmrl23/PHP-Todo-App
+[submodule "image-crop-example"]
+	path = image-crop-example
+	url = https://github.com/jmrl23/image-crop-example
