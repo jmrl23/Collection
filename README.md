@@ -8,4 +8,4 @@ Collection of small projects
 
 You may clone the whole collection using the `git clone https://github.com/JmrL23/Collection --recursive` command or just its submodules.
 
-To populate only the selected submodules/ projects, after cloning (without he --recursive flag) this repository; run the command `git submodule init <...selected_submodule(s)>`.
+To populate only the selected submodules/ projects, after cloning (without the --recursive flag) this repository; run the command `git submodule init <...selected_submodule(s)>`.
