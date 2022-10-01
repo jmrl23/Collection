@@ -7,3 +7,6 @@
 [submodule "image-crop-example"]
 	path = image-crop-example
 	url = https://github.com/jmrl23/image-crop-example
+[submodule "caesar-cipher"]
+	path = caesar-cipher
+	url = https://github.com/jmrl23/caesar-cipher.git
