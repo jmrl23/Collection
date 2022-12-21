@@ -10,3 +10,6 @@
 [submodule "caesar-cipher"]
 	path = caesar-cipher
 	url = https://github.com/jmrl23/caesar-cipher.git
+[submodule "React-Todo-App"]
+	path = React-Todo-App
+	url = https://github.com/jmrl23/React-Todo-App.git
